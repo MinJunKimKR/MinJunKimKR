@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=slice)
 <h1 align="center">Hi 👋, I'm MinjunKim</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
