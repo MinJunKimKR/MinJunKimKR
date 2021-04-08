@@ -6,8 +6,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -32,6 +32,10 @@
   <img src="https://img.shields.io/badge/loki%20-%23F46800.svg?&style=flat-square&logo=loki&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tvtime%20-%23FFD400.svg?&style=flat-square&logo=tvtime&logoColor=white"/>&nbsp;&nbsp;
+</p>
 <!--
 Here are some ideas to get you started:
 
