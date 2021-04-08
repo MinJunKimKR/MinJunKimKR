@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=random)
-<h1 align="center">Hi 👋, I'm MinjunKim</h1>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MinjunKim&fontSize=70&animation=twinkling)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/></a>&nbsp 
