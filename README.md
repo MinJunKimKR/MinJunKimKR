@@ -15,14 +15,13 @@
   <img src ="https://img.shields.io/badge/redis-%23DC382D.svg?&style=flat-square&logo=redis&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/grafana%20-%23F46800.svg?&style=fflat-square&logo=grafana&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/prometheus%20-%23E6522C.svg?&style=fflat-square&logo=prometheus&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/loki%20-%23F46800.svg?&style=fflat-square&logo=loki&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/grafana%20-%23F46800.svg?&style=flat-square&logo=grafana&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/prometheus%20-%23E6522C.svg?&style=flat-square&logo=prometheus&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/loki%20-%23F46800.svg?&style=flat-square&logo=loki&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=fflat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
 <!--
