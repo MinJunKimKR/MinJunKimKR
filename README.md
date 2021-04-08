@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice)
 <h1 align="center">Hi 👋, I'm MinjunKim</h1>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/#339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp 
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minjunkimkr&show_icons=true&locale=en" alt="minjunkimkr" /></p>
 
