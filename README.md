@@ -11,6 +11,9 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a> &nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
+[![HadongLee's github stats](https://github-readme-stats.vercel.app/api?username=MinJunKimKR&show_icons=true&theme=dracula)](https://github.com/metleeha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJunKimKR&layout=compact&theme=dracula)](https://github.com/metleeha)
+
 <!--
 Here are some ideas to get you started:
 
