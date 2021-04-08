@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tv%20time%20-%23FFD400.svg?&style=flat-square&logo=tv%20time&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tvtime%20-%23FFD400.svg?&style=flat-square&logo=tvtime&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <!--
 Here are some ideas to get you started:
