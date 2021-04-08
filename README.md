@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice)
 <h1 align="center">Hi 👋, I'm MinjunKim</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kim-minjun-1659aa192/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kim-minjun-1659aa192/" height="30" width="40" /></a>
-</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minjunkimkr&show_icons=true&locale=en" alt="minjunkimkr" /></p>
 
