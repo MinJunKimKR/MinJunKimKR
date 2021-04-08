@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <img src ="https://img.shields.io/badge/graphql-%23E10098.svg?&style=flat-square&logo=graphql&logoColor=white"/>&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/redis-%23DC382D.svg?&style=flat-square&logo=redis&logoColor=white"/>&nbsp;&nbsp;
