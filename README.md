@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=random)
+![header](https://capsule-render.vercel.app/api?type=slice&color=#55efc4)
 <h1 align="center">Hi 👋, I'm MinjunKim</h1>
 
 <p align="center">
