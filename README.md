@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <img src ="https://img.shields.io/badge/hasura-%2374b9ff.svg?&style=flat-square&logo=hasura&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/graphql-%23E10098.svg?&style=flat-square&logo=graphql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=flat-square&logo=nestjs&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/express-%23000000.svg?&style=flat-square&logo=express&logoColor=white"/>&nbsp;&nbsp;
