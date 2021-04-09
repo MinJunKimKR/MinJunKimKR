@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MinjunKim&fontSize=70&animation=twinkling)
 
-<h3 align="center">✨ Tech Stack ✨ </h3>
+
+
+<h2 align="center">✨ Tech Stack ✨ </h2>
 
 
 
@@ -17,7 +19,7 @@
   <img src ="https://img.shields.io/badge/Hasura-%2374b9ff.svg?&style=flat-square&logo=habr&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
-<h3 align="center"> </h3>
+<h3 align="center"> - </h3>
 
 <p align="center">
   <img src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
@@ -25,7 +27,7 @@
   <img src ="https://img.shields.io/badge/Redis-%23DC382D.svg?&style=flat-square&logo=redis&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
-<h3 align="center">  </h3>
+<h3 align="center"> -</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
@@ -42,7 +44,7 @@
 
 
 
-<h3 align="center">About Me ☕️</h3>
+<h2 align="center">About Me ☕️</h2>
 
 <p align="center">
 <a target="_blank" href="https://burning-camp.tistory.com/">
