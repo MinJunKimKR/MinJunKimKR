@@ -2,6 +2,8 @@
 
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
@@ -15,7 +17,7 @@
   <img src ="https://img.shields.io/badge/Hasura-%2374b9ff.svg?&style=flat-square&logo=habr&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
-<h3 align="center"> • • • </h3>
+<h3 align="center"> </h3>
 
 <p align="center">
   <img src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
@@ -23,7 +25,7 @@
   <img src ="https://img.shields.io/badge/Redis-%23DC382D.svg?&style=flat-square&logo=redis&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
-<h3 align="center"> • • • </h3>
+<h3 align="center">  </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
