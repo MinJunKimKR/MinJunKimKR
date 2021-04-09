@@ -2,7 +2,7 @@
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
-I'm Minjun Kim, a Backedend developer. 🌱 <br>
+I'm Minjun Kim, a Backedend developer. 🌱 <br><br><br><br>
 </p>
 
 
