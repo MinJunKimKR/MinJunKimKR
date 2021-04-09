@@ -39,16 +39,10 @@
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/kim-minjun-1659aa192/">
-  <img src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.notion.so/134463cfa0214e2c90dbba1c0a15ad14">
-  <img src="https://img.shields.io/badge/resume%20-%23000000.svg?&style=flat-square&logo=notion&logoColor=white"/></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/resume%20-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp;&nbsp;
  </p>
-
-
-
-
-
-
 
 
 
