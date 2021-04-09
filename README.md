@@ -2,9 +2,7 @@
 
 
 
-<h2 align="center">✨ Tech Stack ✨ </h2>
-
-
+<h3 align="center">✨ Tech Stack ✨ </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
@@ -44,7 +42,7 @@
 
 
 
-<h2 align="center">About Me ☕️</h2>
+<h3 align="center">About Me ☕️</h3>
 
 <p align="center">
 <a target="_blank" href="https://burning-camp.tistory.com/">
