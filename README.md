@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
+
 <p align="center">
   <img src ="https://img.shields.io/badge/graphql-%23E10098.svg?&style=flat-square&logo=graphql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=flat-square&logo=nestjs&logoColor=white"/>&nbsp;&nbsp;
@@ -17,11 +18,13 @@
   <img src ="https://img.shields.io/badge/hasura-%2374b9ff.svg?&style=flat-square&logo=hasura&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
+
 <p align="center">
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/redis-%23DC382D.svg?&style=flat-square&logo=redis&logoColor=white"/>&nbsp;&nbsp;
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
@@ -32,9 +35,23 @@
   <img src="https://img.shields.io/badge/loki%20-%23F46800.svg?&style=flat-square&logo=loki&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
+<h3 align="center">• • •</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;
-</p>
+<a target="_blank" href="https://www.linkedin.com/in/kim-minjun-1659aa192/">
+  <img src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a target="_blank" href="https://www.notion.so/134463cfa0214e2c90dbba1c0a15ad14">
+  <img src="https://img.shields.io/badge/resume%20-%23000000.svg?&style=flat-square&logo=notion&logoColor=white"/></a>&nbsp;&nbsp;
+ </p>
+
+
+
+
+
+
+
+
+
 <!--
 Here are some ideas to get you started:
 
@@ -46,4 +63,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
