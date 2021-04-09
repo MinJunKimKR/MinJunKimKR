@@ -2,10 +2,8 @@
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
-I'm Minjun Kim, a Backedend developer. 🌱 <br><br><br><br>
+I'm Minjun Kim, a Backedend developer. 🌱 <br><br><br>
 </p>
-
-
 
 
 
@@ -22,14 +20,14 @@ I'm Minjun Kim, a Backedend developer. 🌱 <br><br><br><br>
   <img src ="https://img.shields.io/badge/Express-%23000000.svg?&style=flat-square&logo=express&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/Hasura-%2374b9ff.svg?&style=flat-square&logo=habr&logoColor=white"/>&nbsp;&nbsp;
 </p>
-<h3 align="center">•</h3>
+<h3 align="center">.</h3>
 
 <p align="center">
   <img src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/Mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/Redis-%23DC382D.svg?&style=flat-square&logo=redis&logoColor=white"/>&nbsp;&nbsp;
 </p>
-<h3 align="center">•</h3>
+<h3 align="center">.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
@@ -45,10 +43,6 @@ I'm Minjun Kim, a Backedend developer. 🌱 <br><br><br><br>
   <img src="https://img.shields.io/badge/Helm%20%20%20-%230F1689.svg?&style=flat-square&logo=helm&logoColor=white"/>&nbsp;&nbsp;   
   <img src="https://img.shields.io/badge/Azure Pipelines%20-%23326ce5.svg?&style=flat-square&logo=azure%20pipelines&logoColor=white"/>&nbsp;&nbsp; 
 </p>
-
-
-
-
 
 
 
