@@ -3,10 +3,9 @@
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -15,13 +14,16 @@
   <img src ="https://img.shields.io/badge/Express-%23000000.svg?&style=flat-square&logo=express&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/Hasura-%2374b9ff.svg?&style=flat-square&logo=habr&logoColor=white"/>&nbsp;&nbsp;
 </p>
-<h3> </h3>
+
+<h3 align="center"> • • • </h3>
 
 <p align="center">
   <img src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/Mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/Redis-%23DC382D.svg?&style=flat-square&logo=redis&logoColor=white"/>&nbsp;&nbsp;
 </p>
+
+<h3 align="center"> • • • </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
@@ -35,6 +37,8 @@
   <img src="https://img.shields.io/badge/Kubernetes%20-%23326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/Helm%20%20%20-%230F1689.svg?&style=flat-square&logo=helm&logoColor=white"/>&nbsp;&nbsp;
 </p>
+
+
 
 <h3 align="center">About Me ☕️</h3>
 
