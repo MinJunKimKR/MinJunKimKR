@@ -29,12 +29,13 @@
   <img src="https://img.shields.io/badge/Grafana%20-%23F46800.svg?&style=flat-square&logo=grafana&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Prometheus%20-%23E6522C.svg?&style=flat-square&logo=prometheus&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Loki%20-%23F46800.svg?&style=flat-square&logo=lospec&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Azure Pipelines%20-%23326ce5.svg?&style=flat-square&logo=azure%20pipelines&logoColor=white"/>&nbsp;&nbsp;  
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Kubernetes%20-%23326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/Helm%20%20%20-%230F1689.svg?&style=flat-square&logo=helm&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Azure Pipelines%20-%23326ce5.svg?&style=flat-square&logo=azure%20pipelines&logoColor=white"/>&nbsp;&nbsp;  
 </p>
 
 
