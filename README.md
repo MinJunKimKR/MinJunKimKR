@@ -2,8 +2,9 @@
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
-I'm Minjun Kim, a backedend developer. 🌱 <br>
+I'm Minjun Kim, a Backedend developer. 🌱 <br>
 </p>
+
 
 
 
@@ -14,21 +15,21 @@ I'm Minjun Kim, a backedend developer. 🌱 <br>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
-
-
 <p align="center">
   <img src ="https://img.shields.io/badge/Graphql-%23E10098.svg?&style=flat-square&logo=graphql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/Nestjs-%23E0234E.svg?&style=flat-square&logo=nestjs&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/Express-%23000000.svg?&style=flat-square&logo=express&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/Hasura-%2374b9ff.svg?&style=flat-square&logo=habr&logoColor=white"/>&nbsp;&nbsp;
 </p>
-<h3></h3>
+<h3 align="center"></h3>
 
 <p align="center">
   <img src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/Mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/Redis-%23DC382D.svg?&style=flat-square&logo=redis&logoColor=white"/>&nbsp;&nbsp;
-</p><h3></h3>
+</p>
+
+
 
 
 <p align="center">
@@ -38,12 +39,11 @@ I'm Minjun Kim, a backedend developer. 🌱 <br>
   <img src="https://img.shields.io/badge/Loki%20-%23F46800.svg?&style=flat-square&logo=lospec&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
+<p align="center">  
   <img src="https://img.shields.io/badge/Kubernetes%20-%23326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;  
-  <img src="https://img.shields.io/badge/Helm%20%20%20-%230F1689.svg?&style=flat-square&logo=helm&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Azure Pipelines%20-%23326ce5.svg?&style=flat-square&logo=azure%20pipelines&logoColor=white"/>&nbsp;&nbsp;  
+  <img src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Helm%20%20%20-%230F1689.svg?&style=flat-square&logo=helm&logoColor=white"/>&nbsp;&nbsp;   
+  <img src="https://img.shields.io/badge/Azure Pipelines%20-%23326ce5.svg?&style=flat-square&logo=azure%20pipelines&logoColor=white"/>&nbsp;&nbsp; 
 </p>
 
 
