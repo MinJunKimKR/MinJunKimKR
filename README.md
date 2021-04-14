@@ -49,9 +49,9 @@ I'm Minjun Kim, a Backedend developer. 🌱 <br><br><br>
 <h3 align="center">About Me ☕️</h3>
 
 <p align="center">
-<a target="_blank" href="https://burning-camp.tistory.com/">
-  <img src="https://img.shields.io/badge/resume%20-%2300b894.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.notion.so/134463cfa0214e2c90dbba1c0a15ad14">
+  <img src="https://img.shields.io/badge/resume%20-%2300b894.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp;&nbsp;
+<a target="_blank" href="https://burning-camp.tistory.com/">
   <img src="https://img.shields.io/badge/blog%20-%23e17055.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/></a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/kim-minjun-1659aa192/">
   <img src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
