@@ -7,6 +7,7 @@ I'm Minjun Kim, a Backedend developer. 🌱 <br><br><br>
 
 
 
+
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
 <p align="center">
@@ -37,12 +38,14 @@ I'm Minjun Kim, a Backedend developer. 🌱 <br><br><br>
 </p>
 
 
+
 <p align="center">  
   <img src="https://img.shields.io/badge/Kubernetes%20-%23326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Helm%20%20%20-%230F1689.svg?&style=flat-square&logo=helm&logoColor=white"/>&nbsp;&nbsp;   
   <img src="https://img.shields.io/badge/Azure Pipelines%20-%23326ce5.svg?&style=flat-square&logo=azure%20pipelines&logoColor=white"/>&nbsp;&nbsp; 
 </p>
+
 
 
 
@@ -56,6 +59,11 @@ I'm Minjun Kim, a Backedend developer. 🌱 <br><br><br>
 <a target="_blank" href="https://www.linkedin.com/in/kim-minjun-1659aa192/">
   <img src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
  </p>
+
+<h4 align="center">👆 Click! 👆</h4>
+
+
+
 
 
 
