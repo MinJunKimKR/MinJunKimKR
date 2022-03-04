@@ -63,11 +63,9 @@ I'm Minjun Kim, a Backedend developer. 🌱 <br><br><br>
 <h4 align="center">👆 Click! 👆</h4>
 
 
-
-
-
-
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalswns111)](https://solved.ac/rlaalswns111/)
+
+
